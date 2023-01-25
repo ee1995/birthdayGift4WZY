@@ -55,7 +55,7 @@ var config = {
         "然后乖乖的 听话的": "./imgs/guaitinghua.jpeg",
         //"就能收获棒棒的身体": "./imgs/nothing.jpg",
         "让你舒呼的小手手": "./imgs/shufu.jpg",
-        //"和宝贝喜欢的小宝贝": "./imgs/nothing.jpg",
+        "和宝贝喜欢的小宝贝": "./imgs/xiu.gif",
         "生日快乐~~": "./imgs/shengrikuaile.jpg",
         //"爱你的BABA 爱你的大宝贝~": "./imgs/nothing.jpg"
     },
