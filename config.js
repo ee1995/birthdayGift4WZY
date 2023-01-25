@@ -51,7 +51,7 @@ var config = {
         "今年要吃好好的": "./imgs/chihaodian.jpeg",
         "健康的": "./imgs/jiankang.jpeg",
         "然后才有力气锻炼干活": "./imgs/yundong.gif",
-        "和想我！": "./imgs/xiangwo.jepg",
+        "和想我！": "./imgs/xiangwo.jpg",
         "然后乖乖的 听话的": "./imgs/guaitinghua.jpeg",
         //"就能收获棒棒的身体": "./imgs/nothing.jpg",
         "让你舒呼的小手手": "./imgs/shufu.jpg",
