@@ -38,5 +38,7 @@ var config = {
         light_candle: "蜡烛？",
         wish_message: "HAPPY BIRTHDAY~",
         story: "A MESSAGE FOR YOU",
-    }
+    },
+    // 结束语
+    loveText: '爱你的BABA 爱你的大宝贝~'
 };
